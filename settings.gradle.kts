@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FakeStoreApp"
+rootProject.name = "SMartinezMusicApp"
 include(":app")
-include(":app:lib")
